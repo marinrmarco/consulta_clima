@@ -1,6 +1,6 @@
 //El botón btnConsultar debe generar un nuevo cardContainer con los datos climáticos de la ciudad indicada
 //Crear constante de URL
-const url = "http://api.openweathermap.org/data/2.5/weather?q="
+const url = "https://api.openweathermap.org/data/2.5/weather?q="
 const api = "&units=metric&lang=es&appid=0d0369e3ef0cab7c3c57b527d8294a80"
 //Crear constante para el contenedor
 const container = document.getElementById("container")
